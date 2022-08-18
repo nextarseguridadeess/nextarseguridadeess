@@ -1,9 +1,4 @@
 {
- "start_url": "index.html",
- "background_color": "#FFFFFF",
- "name": "NEXTAR - SEGURIDAD EESS",
- "description": "Protocolo de inducción para la plataforma de Estaciones de Servicio - Nextar.",
- "display": "fullscreen",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +36,10 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#FFFFFF"
+ "theme_color": "#FFFFFF",
+ "description": "Protocolo de inducción para la plataforma de Estaciones de Servicio - Nextar.",
+ "display": "fullscreen",
+ "background_color": "#FFFFFF",
+ "name": "NEXTAR - SEGURIDAD EESS",
+ "start_url": "index.html"
 }
